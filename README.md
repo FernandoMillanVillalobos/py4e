@@ -1,3 +1,7 @@
+# py4e
+
+This is a repository for Python for Everybody exercises and projects.
+
 # My Project
 
 This project uses Jupyter Notebook for analysis.
