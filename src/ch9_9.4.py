@@ -2,7 +2,7 @@ name = input("Enter file:")
 try:
     if len(name) < 1:
         name = "mbox-short.txt"
-    handle = open(name) 
+    handle = open(name)
 except:
     print("File cannot be opened:", name)
     exit()
